@@ -7,3 +7,8 @@
 ## Penguin Prediction App
 ![alt text](https://github.com/Ebrahimi1234/Streamlit-Applications/blob/main/Penguin_App/Penguin.png?raw=true)
 
+## NBA Player State Explorer
+![alt text](https://github.com/Ebrahimi1234/Streamlit-Applications/blob/main/NBA%20Player%20State%20Explorer/NBA%20Player.png?raw=true)
+
+
+
